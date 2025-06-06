@@ -20,8 +20,8 @@ class MyApp extends StatelessWidget {
            Row(
              spacing: 100,
              children: [
-               Text("Sneha"),
-               Text("Sneha"),
+               Text("Sneha kumari"),
+               Text("Sneha  swaroop"),
              ],
            ),
            Row(
